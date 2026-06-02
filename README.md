@@ -22,8 +22,6 @@ A aplicação permite que o usuário pesquise Pokémon pelo nome e visualize sua
 
 - React Native
 - Expo
-- Fetch API
-- FlatList
 
 ---
 
